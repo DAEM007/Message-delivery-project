@@ -10,5 +10,6 @@ messageBtn.addEventListener('click', () => {
     }
     else{
         messageOut.innerHTML = content;
+        // messageIn = '';
     }
 })
